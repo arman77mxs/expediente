@@ -14,7 +14,7 @@ new_height = int(height * 0.4)
 st.image(imagen_path, width=new_width)
 
 # Título de la aplicación
-st.title("Formulario de Expediente Médico")
+st.title("Expediente Médico")
 
 # Crear un formulario
 with st.form("expediente_medico"):
